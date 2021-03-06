@@ -8,6 +8,7 @@ print("You are playing against " + computername +
 import random
 import requests
 import time
+#add time pauses
 
 
 def random_pokemon():
